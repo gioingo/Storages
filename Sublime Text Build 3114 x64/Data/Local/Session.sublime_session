@@ -1,0 +1,848 @@
+{
+	"folder_history":
+	[
+		"/D/GIOINV/Projects/nvg-web",
+		"/D/GIOINV/Projects/demo",
+		"/D/GIOINV/Projects/banhduanuong",
+		"/D/GIOINV/banhduanuong",
+		"/D/GIOINV/CodeIgniter-3.1.0"
+	],
+	"last_version": 3126,
+	"last_window_id": 9,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"funct",
+						"create_function"
+					],
+					[
+						"phpun",
+						"phpunit-testcase\tCreate a skeleton TestCase class"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 104.0,
+				"last_filter": "instal",
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/xampp/php/pear/PHPUnit/TestDecorator.php",
+				"/D/GIOINV/Projects/demo/vendor/phpunit/phpunit/src/Framework/TestCase.php",
+				"/D/GIOINV/Projects/demo/phpunit.xml",
+				"/D/GIOINV/Projects/demo/composer.json",
+				"/D/GIOINV/Projects/demo/vendor/composer/autoload_classmap.php",
+				"/D/GIOINV/Projects/demo/app/libraries/index.php",
+				"/D/GIOINV/Projects/demo/test/CalculatorTest.php",
+				"/D/GIOINV/Projects/demo/test/homeTest.php",
+				"/D/GIOINV/Projects/demo/app/libraries/Calculator.php",
+				"/D/GIOINV/Projects/demo/vendor/composer/autoload_real.php",
+				"/D/GIOINV/Projects/demo/test/Calculator.php",
+				"/D/GIOINV/CodeIgniter.sublime-project",
+				"/C/xampp/apache/conf/httpd.conf",
+				"/D/GIOINV/demo/index.php",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Apache24/conf/extra/httpd-vhosts.conf",
+				"/C/xampp/apache/conf/extra/httpd-ajp.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp45574/etc/httpd/conf.d/mywordpress.com.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp45120/var/www/mywordpress.com/index.php",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp37916/etc/hosts",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp35795/etc/httpd/conf.d/demo.com.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp40488/var/www/demo.com/index.html",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp41158/var/www/demo.com/index.php",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp22015/etc/httpd/conf/httpd.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp37235/etc/host.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp23872/etc/httpd/sites-available/demo.com.conf",
+				"/c/Windows/System32/drivers/etc/hosts",
+				"/C/Apache24/conf/httpd.conf",
+				"/C/php-5.6.24/php.ini",
+				"/D/VAGRANT/Centos7/BROSTOOLS/web/bros_tools/app/config/System.conf",
+				"/D/VAGRANT/Centos7/BROSTOOLS/web/bros_tools/app/config/App.conf",
+				"/D/VAGRANT/Centos7/BROSTOOLS/web/bros_tools/app/config/config.php",
+				"/D/VAGRANT/Centos7/BROSTOOLS/web/bros_tools/app/models/web/ckiAccessInfo.php",
+				"/D/VAGRANT/Centos7/Vagrantfile",
+				"/D/VAGRANT/Centos7/BROSTOOLS/web/bros_tools/app/config/VietnamDev.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp29019/etc/hosts",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp19316/etc/php.ini",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp13400/etc/httpd/conf.d/brostools.conf",
+				"/D/VAGRANT/Centos7/BROSTOOLS/api/bros_rest_api/app/bros_rest_api/config/VietnamDev.conf",
+				"/D/VAGRANT/Centos7_New/Vagrantfile",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp01178/var/lib/pgsql/9.4/data/pg_log/postgresql-Sat.log",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp52762/var/lib/pgsql/9.4/data/pg_hba.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp55843/var/lib/pgsql/9.4/data/postgresql.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp56916/var/lib/pgsql/9.3/data/postgresql.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp55141/var/lib/pgsql/9.3/data/pg_hba.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp49979/etc/hosts",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp15083/home/bros/api/index.php",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp10531/etc/httpd/conf.d/brostools.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp58605/etc/selinux/config",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp42205/etc/httpd/conf.d/demo.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp15908/etc/sysconfig/iptables-config",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp21237/etc/php.d/xdebug.ini",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp14965/home/bros/web/index.php",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp16203/etc/httpd/conf.d/demo.conf",
+				"/C/Users/nvgioi/.vagrant.d/boxes/Centos7/0/virtualbox/Vagrantfile",
+				"/D/VAGRANT/Brostools/Vagrantfile",
+				"/D/SOFTWARE/treehouse/Vagrantfile",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp20619/var/log/httpd/access_log",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp21738/var/log/httpd/error_log",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp35965/home/vagrant/sync/Demo/index.html",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp38491/etc/hosts",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp34926/etc/httpd/conf.d/demo.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp52182/var/log/httpd/error_log",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp30398/home/test/index.html",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp54310/etc/selinux/config",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp51049/var/log/httpd/access_log",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp04205/etc/host.conf",
+				"/C/Users/nvgioi/.homestead/Homestead.yaml",
+				"/D/VAGRANT/Centos7/Demo/index.php",
+				"/D/VAGRANT/Centos7/BROSTOOLS/web/bros_tools/app/config/Local.conf",
+				"/D/VAGRANT/Centos7/BROSTOOLS/web/bros_tools/app/config/Production.conf",
+				"/D/VAGRANT/homestead/Vagrantfile",
+				"/D/VAGRANT/ubuntu_trusty64/Vagrantfile"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"D:\\GIOINV\\Projects\\demo",
+					"D:\\VAGRANT\\Centos7\\BROSTOOLS\\web"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"include_path",
+					"C:\\php\\pear",
+					"\\",
+					"SSL",
+					"\\",
+					"PHPUnit_Framework_TestCase",
+					"\\",
+					"document",
+					"”",
+					"“",
+					"CodeIgniter-3.1.0",
+					"htdoc",
+					"GIONV",
+					"htdocs",
+					"mydemo",
+					"www.example.com",
+					"example",
+					"##",
+					"’",
+					"‘",
+					"demo",
+					"example",
+					"exec",
+					"”",
+					"\\",
+					"memory",
+					"\\",
+					"”",
+					"“",
+					"”",
+					"“",
+					"postgres",
+					"display_e",
+					"config",
+					"tcpip_socket",
+					"#",
+					"  #",
+					"#"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.xdebug":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ckiaccessinfo.php",
+						"web\\bros_tools\\app\\models\\web\\ckiAccessInfo.php"
+					],
+					[
+						"system.cof",
+						"web\\bros_tools\\app\\config\\System.conf"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"D:\\GIOINV\\demopj.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 228.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"prin",
+						"print_r"
+					],
+					[
+						"text-a",
+						"text-align"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"li",
+						"line-height"
+					],
+					[
+						"str",
+						"string"
+					],
+					[
+						"res",
+						"results"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"funct",
+						"create_function"
+					],
+					[
+						"phpun",
+						"phpunit-testcase\tCreate a skeleton TestCase class"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/GIOINV/Projects/nvg-web/src/main/webapp/application/libraries/NVG_Helper.php",
+					"settings":
+					{
+						"buffer_size": 3372,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/GIOINV/Projects/nvg-web/src/main/webapp/app/controllers/public/PaymentController.js",
+					"settings":
+					{
+						"buffer_size": 5871,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 311.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 416.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/GIOINV/Projects/nvg-web",
+				"/D/GIOINV/Projects/nvg-web/src",
+				"/D/GIOINV/Projects/nvg-web/src/main",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/app",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/app/controllers",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/app/controllers/public",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/application",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/application/controllers",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/getdata/kanjito-hiragana",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/getdata/kanjito-hiragana/lib",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/getdata/kanjito-hiragana/lib/Igo",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/sass",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/sass/partials",
+				"/D/GIOINV/Projects/nvg-web/target"
+			],
+			"file_history":
+			[
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/getdata/kanjito-hiragana/index.php",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/getdata/kanjito-hiragana/lib/Igo.php",
+				"/D/SOFTWARE/PHP/igo-php-0.1.7/igo-php-0.1.7/README",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/getdata/kanjito-hiragana/lib/Igo/Tagger.php",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/getdata/mazii_net.user.js",
+				"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+				"/C/Users/nvgioi/Desktop/index.html",
+				"/D/GIOINV/Projects/jbse/Tools/KanjiToHiragana.cs",
+				"/D/GIOINV/Projects/jbse/Show/KanjiToHira.cs",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/getdata/get_toiec.php",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/install/tables/carriers.php",
+				"/C/xampp/php/php.ini",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/getdata/get_shipping.php",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/install/tables/shipping_fees.php",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/assets/js/common.js",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/application/controllers/public/Login.php",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/install/tables/users.php",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/app/controllers/public/LoginController.js",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/app/controllers/LoginController.js",
+				"/D/SOFTWARE/Sublime Text Build 3114 x64/Data/Packages/SASS Build/SASS.sublime-build",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/sass/partials/_controls.scss",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/sass/style.scss",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/assets/css/style.css",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/application/config/config.php",
+				"/D/SOFTWARE/Sublime Text Build 3114 x64/Data/Packages/SASS Build/SASS - Copy",
+				"/D/SOFTWARE/Sublime Text Build 3114 x64/Data/Installed Packages/CodeIgniter 2 ModelController.sublime-package",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/css/style.css",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/application/language/vietnamese/db_lang.php",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/install/tables/nvg_sessions.php",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/development/install/database.sql",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/application/config/database.php",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/GIOINV/Projects/nvg-web/src/main/webapp/system/libraries/Session/drivers/Session_files_driver.php",
+				"/C/xampp/apache/conf/httpd.conf",
+				"/C/xampp/php/pear/PHPUnit/TestDecorator.php",
+				"/D/GIOINV/Projects/demo/vendor/phpunit/phpunit/src/Framework/TestCase.php",
+				"/D/GIOINV/Projects/demo/phpunit.xml",
+				"/D/GIOINV/Projects/demo/composer.json",
+				"/D/GIOINV/Projects/demo/vendor/composer/autoload_classmap.php",
+				"/D/GIOINV/Projects/demo/app/libraries/index.php",
+				"/D/GIOINV/Projects/demo/test/CalculatorTest.php",
+				"/D/GIOINV/Projects/demo/test/homeTest.php",
+				"/D/GIOINV/Projects/demo/app/libraries/Calculator.php",
+				"/D/GIOINV/Projects/demo/vendor/composer/autoload_real.php",
+				"/D/GIOINV/Projects/demo/test/Calculator.php",
+				"/D/GIOINV/CodeIgniter.sublime-project",
+				"/D/GIOINV/demo/index.php",
+				"/C/Apache24/conf/extra/httpd-vhosts.conf",
+				"/C/xampp/apache/conf/extra/httpd-ajp.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp45574/etc/httpd/conf.d/mywordpress.com.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp45120/var/www/mywordpress.com/index.php",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp37916/etc/hosts",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp35795/etc/httpd/conf.d/demo.com.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp40488/var/www/demo.com/index.html",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp41158/var/www/demo.com/index.php",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp22015/etc/httpd/conf/httpd.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp37235/etc/host.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp23872/etc/httpd/sites-available/demo.com.conf",
+				"/c/Windows/System32/drivers/etc/hosts",
+				"/C/Apache24/conf/httpd.conf",
+				"/C/php-5.6.24/php.ini",
+				"/D/VAGRANT/Centos7/BROSTOOLS/web/bros_tools/app/config/System.conf",
+				"/D/VAGRANT/Centos7/BROSTOOLS/web/bros_tools/app/config/App.conf",
+				"/D/VAGRANT/Centos7/BROSTOOLS/web/bros_tools/app/config/config.php",
+				"/D/VAGRANT/Centos7/BROSTOOLS/web/bros_tools/app/models/web/ckiAccessInfo.php",
+				"/D/VAGRANT/Centos7/Vagrantfile",
+				"/D/VAGRANT/Centos7/BROSTOOLS/web/bros_tools/app/config/VietnamDev.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp29019/etc/hosts",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp19316/etc/php.ini",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp13400/etc/httpd/conf.d/brostools.conf",
+				"/D/VAGRANT/Centos7/BROSTOOLS/api/bros_rest_api/app/bros_rest_api/config/VietnamDev.conf",
+				"/D/VAGRANT/Centos7_New/Vagrantfile",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp01178/var/lib/pgsql/9.4/data/pg_log/postgresql-Sat.log",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp52762/var/lib/pgsql/9.4/data/pg_hba.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp55843/var/lib/pgsql/9.4/data/postgresql.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp56916/var/lib/pgsql/9.3/data/postgresql.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp55141/var/lib/pgsql/9.3/data/pg_hba.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp49979/etc/hosts",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp15083/home/bros/api/index.php",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp10531/etc/httpd/conf.d/brostools.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp58605/etc/selinux/config",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp42205/etc/httpd/conf.d/demo.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp15908/etc/sysconfig/iptables-config",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp21237/etc/php.d/xdebug.ini",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp14965/home/bros/web/index.php",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp16203/etc/httpd/conf.d/demo.conf",
+				"/C/Users/nvgioi/.vagrant.d/boxes/Centos7/0/virtualbox/Vagrantfile",
+				"/D/VAGRANT/Brostools/Vagrantfile",
+				"/D/SOFTWARE/treehouse/Vagrantfile",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp20619/var/log/httpd/access_log",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp21738/var/log/httpd/error_log",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp35965/home/vagrant/sync/Demo/index.html",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp38491/etc/hosts",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp34926/etc/httpd/conf.d/demo.conf",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp52182/var/log/httpd/error_log",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp30398/home/test/index.html",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp54310/etc/selinux/config",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp51049/var/log/httpd/access_log",
+				"/C/Users/nvgioi/AppData/Local/Temp/scp04205/etc/host.conf",
+				"/C/Users/nvgioi/.homestead/Homestead.yaml",
+				"/D/VAGRANT/Centos7/Demo/index.php",
+				"/D/VAGRANT/Centos7/BROSTOOLS/web/bros_tools/app/config/Local.conf",
+				"/D/VAGRANT/Centos7/BROSTOOLS/web/bros_tools/app/config/Production.conf",
+				"/D/VAGRANT/homestead/Vagrantfile",
+				"/D/VAGRANT/ubuntu_trusty64/Vagrantfile"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"D:\\GIOINV\\Projects\\nvg-web\\src\\main\\webapp\\development\\sass",
+					"D:\\GIOINV\\Projects\\nvg-web\\src\\main\\webapp",
+					"D:\\GIOINV\\Projects\\demo",
+					"D:\\VAGRANT\\Centos7\\BROSTOOLS\\web"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"slice",
+					" /",
+					"\t/",
+					"/",
+					"\t",
+					"second-btn",
+					"text-decoration: none;",
+					"btn",
+					"nvg",
+					"extension",
+					"\\",
+					"extension",
+					" mbstring",
+					"sess_driver",
+					"$config['sess_driver']",
+					"\\",
+					"extension_dir ",
+					"mbstr",
+					"\\",
+					"include_path",
+					"C:\\php\\pear",
+					"\\",
+					"SSL",
+					"\\",
+					"PHPUnit_Framework_TestCase",
+					"\\",
+					"document",
+					"”",
+					"“",
+					"CodeIgniter-3.1.0",
+					"htdoc",
+					"GIONV",
+					"htdocs",
+					"mydemo",
+					"www.example.com",
+					"example",
+					"##",
+					"’",
+					"‘",
+					"demo",
+					"example",
+					"exec",
+					"”",
+					"\\",
+					"memory",
+					"\\",
+					"”",
+					"“",
+					"”",
+					"“",
+					"postgres",
+					"display_e",
+					"config",
+					"tcpip_socket",
+					"#",
+					"  #",
+					"#"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\GIOINV\\Projects\\nvg-web"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/GIOINV/Projects/nvg-web/src/main/webapp/application/libraries/NVG_Helper.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3372,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3328,
+										3328
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1350.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/GIOINV/Projects/nvg-web/src/main/webapp/app/controllers/public/PaymentController.js",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 5871,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3872,
+										3872
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": -0.0,
+								"translation.y": 1170.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.xdebug":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/SASS Build/SASS.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,669,130,130,786",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"nvg",
+						"src\\main\\webapp\\application\\libraries\\NVG_Helper.php"
+					],
+					[
+						"user",
+						"src\\main\\webapp\\development\\install\\tables\\users.php"
+					],
+					[
+						"login",
+						"src\\main\\webapp\\application\\controllers\\public\\Login.php"
+					],
+					[
+						"common",
+						"src\\main\\webapp\\assets\\js\\common.js"
+					],
+					[
+						"config",
+						"src\\main\\webapp\\application\\config\\config.php"
+					],
+					[
+						"session_files_driver.php",
+						"src\\main\\webapp\\system\\libraries\\Session\\drivers\\Session_files_driver.php"
+					],
+					[
+						"databa",
+						"src\\main\\webapp\\application\\config\\database.php"
+					],
+					[
+						"ckiaccessinfo.php",
+						"web\\bros_tools\\app\\models\\web\\ckiAccessInfo.php"
+					],
+					[
+						"system.cof",
+						"web\\bros_tools\\app\\config\\System.conf"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"D:\\GIOINV\\demopj.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"xdebug":
+				{
+					"hide_conflict": false
+				}
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 289.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 9,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/D/GIOINV/Projects/banhduanuongpj.sublime-workspace",
+			"/D/GIOINV/demo/demo.sublime-workspace",
+			"/D/GIOINV/CodeIgniter-3.1.0/codeigniter.sublime-workspace"
+		]
+	}
+}

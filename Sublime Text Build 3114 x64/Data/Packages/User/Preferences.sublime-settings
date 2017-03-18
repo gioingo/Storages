@@ -1,0 +1,8 @@
+{
+	"close_sidebar_if_opened": false,
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}

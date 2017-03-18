@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"CodeFormatter",
+		"CodeIgniter 2 ModelController",
+		"CodeIgniter Snippets",
+		"CodeIgniter Utilities",
+		"Focus File on Sidebar",
+		"jQuery",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Constructors",
+		"PHP Getters and Setters",
+		"PhpDoc",
+		"PHPIntel",
+		"PHPUnit",
+		"RemotePHPUnit",
+		"Sass",
+		"SASS Build",
+		"SASS Snippets",
+		"SassBeautify",
+		"SassSolution",
+		"SublimeOnSaveBuild",
+		"Xdebug Client"
+	]
+}
