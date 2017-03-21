@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+echo \$url;exit;
+]]></content>
+<tabTrigger>debug</tabTrigger>
+<scope>source.php</scope>
+</snippet>
